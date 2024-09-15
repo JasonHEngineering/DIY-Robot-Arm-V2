@@ -1,0 +1,7 @@
+Axis,Type,Start angle,Absolute low angle limit,Absolute high angle limit,Relative low angle limit,Relative high angle limit,Low step limit,High step limit
+1,yaw,0,-170,170,-90,90,,
+2,pitch,0,-90,90,-60,60,,
+3,pitch,0,-90,90,-60,60,,
+4,yaw,0,-150,150,-90,90,,
+5,pitch,0,-90,95,-60,60,,
+6,yaw,0,-180,180,-170,170,,
