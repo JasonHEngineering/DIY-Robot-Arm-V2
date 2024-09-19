@@ -20,7 +20,7 @@ Below illustration of user interface dealing with forward kinematics values:
 ![Images/illustration_1.JPG](https://github.com/JasonHEngineering/DIY-Robot-Arm-V2/blob/main/Images/illustration_1.JPG?raw=true)
 
 ### Inverse Kinematics Solver
-I will upload soon for these solver (in Python):
+[Python solver](https://github.com/JasonHEngineering/Inverse-Kinematics)
 1. Inverse Kinematics (CCD) – Cyclic Coordinate Descent in 3d space
 2. Inverse Kinematics (vector formula Jacobian) - Euler
 3. Inverse Kinematics (Numerical Jacobian) - Euler
